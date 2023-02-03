@@ -1,4 +1,4 @@
 # cp-classification
-using Convolutional Neural Networks
+Classifying Gait Patterns in Children with Bilateral Spastic Cerebral Palsy using Convolutional Neural Network
 
 Pytorch
